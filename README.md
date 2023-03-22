@@ -16,7 +16,7 @@ O projeto utiliza as tecnologias:
 
 Para o projeto utilizamos o banco de dados relacional SQL Server, seguindo a modelagem de dados apresentada:
 
-<img src="docs/DER.png">
+<img src="myfinance-web-netcore/docs/DER.png">
 
 - O banco de dados através se encontra no script: (myfinance-web-netcore\database\myfynance.sql)
 
@@ -30,14 +30,14 @@ Para executar o projeto:
 ## Funcionalidades
 
 ## Criar Despesas
-<img src="docs/planodecontas.png">
+<img src="myfinance-web-netcore/docs/planodecontas.png">
 Nessa aba, o usuário pode inserir ou remover contas conforme sua necessidade.
 
 ## Transações
-<img src="docs/transacoes.png">
+<img src="myfinance-web-netcore/docs/transacoes.png">
 Todas as transações são exibidas em forma de lista e podem ser filtradas através da ferramenta disposta na parte superior da guia, bem como o relatório por período.
 <img src="docs/telas/relatorioporperiodo.png">
 
 ## Gráfico
-<img src="docs/grafico.png">
+<img src="myfinance-web-netcore/docs/grafico.png">
 Ao final da exibição do relatório, o usuário pode acessar o gráfico para checar a relação entre receitas e despesas.
