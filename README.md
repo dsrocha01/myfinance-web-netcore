@@ -36,7 +36,7 @@ Nessa aba, o usuário pode inserir ou remover contas conforme sua necessidade.
 ## Transações
 <img src="myfinance-web-netcore/docs/transacoes.png">
 Todas as transações são exibidas em forma de lista e podem ser filtradas através da ferramenta disposta na parte superior da guia, bem como o relatório por período.
-<img src="docs/relatorioporperiodo.png">
+<img src="myfinance-web-netcore/docs/relatorioporperiodo.png">
 
 ## Gráfico
 <img src="myfinance-web-netcore/docs/grafico.png">
